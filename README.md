@@ -3,7 +3,7 @@ vue+node+sqlite3实现增删改查
 
 backend 后端文件
 
-frontend 前端文件
+front 前端文件
 
 整体实现登录注册（jwt）
 增删改查都需携带token
